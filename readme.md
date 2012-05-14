@@ -1,7 +1,13 @@
 # Andro
 
-**Andro** is a theme for MacRabbit's Espresso, that I made and am using. Expect updates, as I fiddle with the details.
-I will also be porting Andro to several other editors in the near future, such as TextMate and Notepad++
+**Andro** is a originally theme for MacRabbit's Espresso, that I made and am using. Expect updates, as I fiddle with the details.
+It is also being ported to several other editors, and while they're not perfect copies of it, it's close enough.
+
+Currently supported editors are:
+
++ MacRabbit Espresso
++ Sublime Text 2
++ TextMate
 
 Languages that are currently supported:
 
