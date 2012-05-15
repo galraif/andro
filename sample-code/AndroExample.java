@@ -15,7 +15,7 @@ public class Liquourice {
     }
 
     public static void main(String args[]) {
-        amount = JOptionPane.showInputDialog("How many " + name + "'s would you like?";
+        amount = JOptionPane.showInputDialog("How many " + name + "'s would you like?");
 	getPrice(amount);
     }
 }
