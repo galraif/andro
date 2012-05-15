@@ -86,5 +86,12 @@ Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color S
 
 **Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with TextMate.**
 
+NetBeans (by [@NeilHanlon](https://github.com/neilhanlon))
+--------
+
+Open up NetBeans, and go to ``NetBeans ➜ Preferences ➜ Fonts & Colors``. At the bottom left, select Import, and then open up the ``themes/+NetBeans/Andro.zip`` file which contains the theme.
+
+**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with TextMate.** 
+
 
 
