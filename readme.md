@@ -8,6 +8,7 @@ Currently supported editors are:
 + MacRabbit Espresso
 + Sublime Text 2
 + TextMate
++ NetBeans (Port by [@NeilHanlon](http://github.com/NeilHanlon))
 
 Languages that are currently supported:
 
