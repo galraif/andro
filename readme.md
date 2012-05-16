@@ -51,6 +51,8 @@ Here are the colors (credit goes to [@NeilHanlon](https://github.com/neilhanlon)
 	$orange: #C24D43;         :  rgb(194,77,67)
 	$grey: #B9AA99;           :  rgb(185,170,153)
 
+If you'd like to compare your result to the screenshots, Neil's added the sample code files in, well, ``sample-code``.
+
 # License
 
 You can do whatever the hell you want. Really.
@@ -86,14 +88,14 @@ Sublime Text 2
 Copy the ``themes/+Sublime Text 2/Andro.tmTheme`` file to ``~/Library/Application Support/Sublime Text 2/Packages/User/Andro.tmTheme``.
 Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color Scheme ➜ User ➜ Andro``. Andro should now be your theme.
 
-**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with TextMate.**
+**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with Sublime Text.**
 
 NetBeans (by [@NeilHanlon](https://github.com/neilhanlon))
 --------
 
 Open up NetBeans, and go to ``NetBeans ➜ Preferences ➜ Fonts & Colors``. At the bottom left, select Import, and then open up the ``themes/+NetBeans/Andro.zip`` file which contains the theme.
 
-**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with TextMate.** 
+**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with NetBeans.** 
 
 Komodo Edit (by [@NeilHanlon](https://github.com/neilhanlon))
 -----------
@@ -108,6 +110,6 @@ Then open Komodo Edit, and select "Andro" as your scheme under ``Edit ➜ Prefer
 Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``~/Library/Application Support/Komodo Edit/<Version>/schemes/Andro.ksf``.
 Then open Komodo Edit, and select "Andro" as your scheme under ``Komodo Edit ➜ Preferences ➜ Fonts & Colors``.
 
-**Note that this is not a full port. Some of the styling visible on the Espresso screenshots are not possible to replicate with Komodo Edit**
+**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with Komodo Edit**
 
 
