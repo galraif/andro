@@ -9,6 +9,7 @@ Currently supported editors are:
 + Sublime Text 2
 + TextMate
 + NetBeans (Port by [@NeilHanlon](http://github.com/NeilHanlon))
++ Komodo Edit (Port by [@NeilHanlon](http://github.com/NeilHanlon))
 
 Languages that are currently supported:
 
@@ -94,5 +95,19 @@ Open up NetBeans, and go to ``NetBeans ➜ Preferences ➜ Fonts & Colors``. At 
 
 **Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with TextMate.** 
 
+Komodo Edit (by [@NeilHanlon](https://github.com/neilhanlon))
+-----------
+
+## Windows
+
+Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``%AppData%\Local\ActiveState\KomodoEdit\<Version>\schemes\Andro.ksf``.
+Then open Komodo Edit, and select "Andro" as your scheme under ``Edit ➜ Preferences ➜ Fonts & Colors``.
+
+## Mac
+
+Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``~/Library/Application Support/Komodo Edit/<Version>/schemes/Andro.ksf``.
+Then open Komodo Edit, and select "Andro" as your scheme under ``Komodo Edit ➜ Preferences ➜ Fonts & Colors``.
+
+**Note that this is not a full port. Some of the styling visible on the Espresso screenshots are not possible to replicate with Komodo Edit**
 
 
