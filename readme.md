@@ -98,12 +98,12 @@ Open up NetBeans, and go to ``NetBeans ➜ Preferences ➜ Fonts & Colors``. At 
 Komodo Edit (by [@NeilHanlon](https://github.com/neilhanlon))
 -----------
 
-## Windows
+### Windows
 
 Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``%AppData%\Local\ActiveState\KomodoEdit\<Version>\schemes\Andro.ksf``.
 Then open Komodo Edit, and select "Andro" as your scheme under ``Edit ➜ Preferences ➜ Fonts & Colors``.
 
-## Mac
+### Mac
 
 Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``~/Library/Application Support/Komodo Edit/<Version>/schemes/Andro.ksf``.
 Then open Komodo Edit, and select "Andro" as your scheme under ``Komodo Edit ➜ Preferences ➜ Fonts & Colors``.
