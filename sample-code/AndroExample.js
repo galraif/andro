@@ -9,9 +9,9 @@ Person.prototype.greet = function() {
 
 Person.prototype.life = function() {
     if (this.age <= 0)
-        return "Quite young, I mus say!"
+        return "Quite young, I must say!"
     
     return this.age;
 }
 
-var me= new Person("Me");
+var me = new Person("Me");

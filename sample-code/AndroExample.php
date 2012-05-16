@@ -13,4 +13,4 @@ class Liquorice extends Sweets {
     
 };
 
-echo Liqourice::getPrice(10);
+echo Liquorice::getPrice(10);
