@@ -4,6 +4,7 @@ $white: #D6D6D6;
 $brown: #676767;
 $orange: #C24D43;
 $grey: #B9AA99;
+$purple: #896492;
 
 $background: #292929;
 $highlight: #3C3C3C;
@@ -90,6 +91,9 @@ js, php, python {
 	}
 	&.embedded {
 		background: darken($background, 2%);
+	}
+	literal {
+		color: $purple;
 	}
 }
 

@@ -50,6 +50,7 @@ Here are the colors (credit goes to [@NeilHanlon](https://github.com/neilhanlon)
 	$brown: #676767;          :  rgb(103,103,103)
 	$orange: #C24D43;         :  rgb(194,77,67)
 	$grey: #B9AA99;           :  rgb(185,170,153)
+	$purple: #896492;         :  rgb(137,100,146)
 
 If you'd like to compare your result to the screenshots, Neil's added the sample code files in, well, ``sample-code``.
 

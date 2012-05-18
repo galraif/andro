@@ -54,6 +54,8 @@ js function > name, js identifier.function > name, js class > name, php function
   color: #6b84a3; }
 js.embedded, php.embedded, python.embedded {
   background: #242424; }
+js literal, php literal, python literal {
+  color: #896492; }
 
 markdown header {
   color: #c24d43; }
