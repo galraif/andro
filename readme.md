@@ -3,7 +3,7 @@
 **Andro** is a originally theme for MacRabbit's Espresso, that I made and am using. Expect updates, as I fiddle with the details.
 It is also being ported to several other editors, and while they're not perfect copies of it, it's close enough.
 
-Currently supported editors are:
+Currently supported editors and languages are the following:
 
 + MacRabbit Espresso
 + Sublime Text 2
@@ -11,27 +11,37 @@ Currently supported editors are:
 + NetBeans (Port by [@NeilHanlon](http://github.com/NeilHanlon))
 + Komodo Edit (Port by [@NeilHanlon](http://github.com/NeilHanlon))
 
-Languages that are currently supported:
+-----
 
-HTML
-----
+### HTML
+
 ![HTML](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExampleHTML.png)
 
-CSS, LESS, SASS
----------------
+-----
+
+### CSS - LESS - SASS
+
 ![CSS](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExampleCSS.png)
 
-JavaScript 
-----------
+-----
+
+### JavaScript
+
 ![JavaScript](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExampleJS.png)
 
-PHP
----
+-----
+
+### PHP
+
 ![PHP](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExamplePHP.png)
 
-Python
-------
+-----
+
+### Python
+
 ![Python](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExamplePython.png)
+
+-----
 
 # Porting to other Editors
 
@@ -40,25 +50,29 @@ Note that getting the same effect is pretty hard, as not many editors enable you
 
 Here are the colors (credit goes to [@NeilHanlon](https://github.com/neilhanlon) for converting the HEX to RGB):
 
-	$background: #292929;     :  rgb(41,41,41)
-	$highlight: #3C3C3C;      :  rgb(60,60,60)
-	$current: #303030;        :  rgb(48,48,48)
+	$background:          #292929    rgb(41,41,41)
+	$highlight:           #3C3C3C;   rgb(60,60,60)
+	$current:             #303030;   rgb(48,48,48)
 	
-	$blue: #6B84A3;           :  rgb(107,132,163)
-	$beige: #E8BF6A;          :  rgb(232,191,122)
-	$white: #D6D6D6;          :  rgb(214,214,214)
-	$brown: #676767;          :  rgb(103,103,103)
-	$orange: #C24D43;         :  rgb(194,77,67)
-	$grey: #B9AA99;           :  rgb(185,170,153)
-	$purple: #896492;         :  rgb(137,100,146)
+	$blue:                #6B84A3;   rgb(107,132,163)
+	$beige:               #E8BF6A;   rgb(232,191,122)
+	$white:               #D6D6D6;   rgb(214,214,214)
+	$brown:               #676767;   rgb(103,103,103)
+	$orange:              #C24D43;   rgb(194,77,67)
+	$grey:                #B9AA99;   rgb(185,170,153)
+	$purple:              #896492;   rgb(137,100,146)
 
 If you'd like to compare your result to the screenshots, Neil's added the sample code files in, well, ``sample-code``.
+
+-----
 
 # License
 
 You can do whatever the hell you want. Really.
 Use it, share it, modify it, smash it against the wall if you feel like it!
 Be nice though, I'd appreciate a mention as the original author if you're going to be sharing / building on it.
+
+-----
 
 # Installing Andro
 
