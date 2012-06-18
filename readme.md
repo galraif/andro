@@ -8,36 +8,26 @@ Currently supported editors and languages are the following:
 + MacRabbit Espresso
 + Sublime Text 2
 + TextMate
-+ NetBeans (Port by [@NeilHanlon](http://github.com/NeilHanlon))
-+ Komodo Edit (Port by [@NeilHanlon](http://github.com/NeilHanlon))
++ NetBeans (port by [@neilhanlon](http://github.com/neilhanlon))
++ Komodo Edit (port by [@neilhanlon](http://github.com/neilhanlon))
 
 -----
-
-### HTML
 
 ![HTML](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExampleHTML.png)
 
 -----
 
-### CSS - LESS - SASS
-
 ![CSS](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExampleCSS.png)
 
 -----
-
-### JavaScript
 
 ![JavaScript](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExampleJS.png)
 
 -----
 
-### PHP
-
 ![PHP](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExamplePHP.png)
 
 -----
-
-### Python
 
 ![Python](https://github.com/cyrilmengin/andro/raw/master/examples/AndroExamplePython.png)
 
@@ -48,7 +38,7 @@ Currently supported editors and languages are the following:
 If you're going to port Andro to another editor, please let me know, and I'll add it. 
 Note that getting the same effect is pretty hard, as not many editors enable you to have as much flexibility as Espresso.
 
-Here are the colors (credit goes to [@NeilHanlon](https://github.com/neilhanlon) for converting the HEX to RGB):
+Here are the colors. Credit goes to [@neilhanlon](https://github.com/neilhanlon) for converting the HEX to RGB:
 
 	$background:          #292929    rgb(41,41,41)
 	$highlight:           #3C3C3C;   rgb(60,60,60)
@@ -61,8 +51,6 @@ Here are the colors (credit goes to [@NeilHanlon](https://github.com/neilhanlon)
 	$orange:              #C24D43;   rgb(194,77,67)
 	$grey:                #B9AA99;   rgb(185,170,153)
 	$purple:              #896492;   rgb(137,100,146)
-
-If you'd like to compare your result to the screenshots, Neil's added the sample code files in, well, ``sample-code``.
 
 -----
 
