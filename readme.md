@@ -8,7 +8,6 @@ Currently supported editors and languages are the following:
 + MacRabbit Espresso
 + Sublime Text 2
 + TextMate
-+ NetBeans (port by [@neilhanlon](http://github.com/neilhanlon))
 + Komodo Edit (port by [@neilhanlon](http://github.com/neilhanlon))
 
 -----
@@ -92,13 +91,6 @@ Copy the ``themes/+Sublime Text 2/Andro.tmTheme`` file to ``~/Library/Applicatio
 Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color Scheme ➜ User ➜ Andro``. Andro should now be your theme.
 
 **Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with Sublime Text.**
-
-NetBeans (by [@NeilHanlon](https://github.com/neilhanlon))
---------
-
-Open up NetBeans, and go to ``NetBeans ➜ Preferences ➜ Fonts & Colors``. At the bottom left, select Import, and then open up the ``themes/+NetBeans/Andro.zip`` file which contains the theme.
-
-**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with NetBeans.** 
 
 Komodo Edit (by [@NeilHanlon](https://github.com/neilhanlon))
 -----------

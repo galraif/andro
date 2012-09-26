@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
-<fontscolors>
-    <fontcolor foreColor="ff6b84a3" name="mod-class"/>
-    <fontcolor default="number" foreColor="ffc24d43" name="FLOAT_LITERAL"/>
-    <fontcolor default="keyword" foreColor="ff676767" name="keyword"/>
-    <fontcolor default="identifier" foreColor="ffb9aa99" name="IDENTIFIER"/>
-    <fontcolor default="operator" foreColor="ffd6d6d6" name="ANY_OPERATOR"/>
-</fontscolors>
