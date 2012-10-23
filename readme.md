@@ -7,7 +7,7 @@ Currently supported editors and languages are the following.
 + **TextMate**
 + **Espresso**
 + **Komodo Edit**
-+ **Sublime Text 2**
++ **Sublime Text**
 
 -----
 
