@@ -1,14 +1,13 @@
 # Andro
 
 **Andro** is a originally theme for MacRabbit's Espresso, that I made and am using. Expect updates, as I fiddle with the details.
-It is also being ported to several other editors, and while they're not perfect copies of it, it's close enough.
+It is also being ported to several other editors, and while they're not perfect copies of it, it's close enough. 
+Currently supported editors and languages are the following.
 
-Currently supported editors and languages are the following:
-
-+ MacRabbit Espresso
-+ Sublime Text 2
-+ TextMate
-+ Komodo Edit (port by [@neilhanlon](http://github.com/neilhanlon))
++ **TextMate**
++ **Espresso**
++ **Komodo Edit**
++ **Sublime Text 2**
 
 -----
 
@@ -32,12 +31,11 @@ Currently supported editors and languages are the following:
 
 -----
 
-# Porting to other Editors
+# Porting to Other Editors
 
 If you're going to port Andro to another editor, please let me know, and I'll add it. 
 Note that getting the same effect is pretty hard, as not many editors enable you to have as much flexibility as Espresso.
-
-Here are the colors. Credit goes to [@neilhanlon](https://github.com/neilhanlon) for converting the HEX to RGB:
+Here are the colors. Credit goes to [Neil](https://github.com/neilhanlon) for converting the HEX to RGB:
 
 	$background:          #292929    rgb(41,41,41)
 	$highlight:           #3C3C3C;   rgb(60,60,60)
@@ -49,7 +47,6 @@ Here are the colors. Credit goes to [@neilhanlon](https://github.com/neilhanlon)
 	$brown:               #676767;   rgb(103,103,103)
 	$orange:              #C24D43;   rgb(194,77,67)
 	$grey:                #B9AA99;   rgb(185,170,153)
-	$purple:              #896492;   rgb(137,100,146)
 
 -----
 
@@ -65,16 +62,13 @@ Be nice though, I'd appreciate a mention as the original author if you're going 
 
 All the files for the various IDEs are in the ``theme`` folder. 
 Editor themes in the ``theme`` directory with a ``+`` in front of their names mean that they aren't a full port, that some things were lost.
-
-Also, I suggest you use **Monaco** as your font, at **11pt** or **12pt**, depending on what looks best in your editor.
+Also, I suggest you use **Monaco** or **Menlo** as your font, at **11pt** or **12pt**, depending on what looks best in your editor.
 
 Espresso
 --------
 
 Copy the the ``themes/Espresso/Andro.css`` file to ``~/Library/Application Support/Espresso/Themes/Andro.css``.
 Open up Espresso,  go to ``Espresso ➜ Preferences ➜ Colors`` and set your "active theme" to Andro.
-
-The .SCSS file that I used for generating the ``Andro.css`` file is also available in there, if you decide to edit it yourself.
 
 TextMate
 --------
@@ -90,9 +84,7 @@ Sublime Text 2
 Copy the ``themes/+Sublime Text 2/Andro.tmTheme`` file to ``~/Library/Application Support/Sublime Text 2/Packages/User/Andro.tmTheme``.
 Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color Scheme ➜ User ➜ Andro``. Andro should now be your theme.
 
-**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with Sublime Text.**
-
-Komodo Edit (by [@NeilHanlon](https://github.com/neilhanlon))
+Komodo Edit by [Neil Hanlon](https://github.com/neilhanlon)
 -----------
 
 ### Windows
@@ -104,7 +96,5 @@ Then open Komodo Edit, and select "Andro" as your scheme under ``Edit ➜ Prefer
 
 Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``~/Library/Application Support/Komodo Edit/<Version>/schemes/Andro.ksf``.
 Then open Komodo Edit, and select "Andro" as your scheme under ``Komodo Edit ➜ Preferences ➜ Fonts & Colors``.
-
-**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with Komodo Edit**
 
 
