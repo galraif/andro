@@ -35,7 +35,7 @@ Currently supported editors and languages are the following.
 
 If you're going to port Andro to another editor, please let me know, and I'll add it. 
 Note that getting the same effect is pretty hard, as not many editors enable you to have as much flexibility as Espresso.
-Here are the colors. Credit goes to [Neil](https://github.com/neilhanlon) for converting the HEX to RGB:
+Here are the colors. Credit goes to [Neil](https://github.com/neilhanlon) for giving the RGB values.
 
 	$background:          #292929    rgb(41,41,41)
 	$highlight:           #3C3C3C;   rgb(60,60,60)
@@ -75,8 +75,6 @@ TextMate
 
 Open up the ``themes/+TextMate/Andro.tmTheme`` file in TextMate (nothing should happen, but the app should open). 
 Then select "Andro" as your theme in ``TextMate ➜ Preferences ➜ Fonts and Colors``.
-
-**Note that this is not a full port. Some of the styling visible on the Espresso screenshots was not possible to replicate with TextMate.**
 
 Sublime Text 2
 --------------
