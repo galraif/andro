@@ -74,25 +74,32 @@ TextMate
 --------
 
 Open up the ``themes/+TextMate/Andro.tmTheme`` file in TextMate. Nothing should happen, but the app should open. 
-Then select "Andro" as your theme in ``TextMate ➜ Preferences ➜ Fonts and Colors``
+Then select Andro as your theme in ``TextMate ➜ Preferences ➜ Fonts and Colors``.
 
 Sublime Text 2
 --------------
 
-Copy ``themes/+Sublime Text 2/Andro.tmTheme`` to ``~/Library/Application Support/Sublime Text/Packages/User/Andro.tmTheme``.
-Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color Scheme ➜ User ➜ Andro``
+### Windows
 
-Komodo Edit - [Neil Hanlon](https://github.com/neilhanlon)
------------
+Copy ``themes/+Sublime Text/Andro.tmTheme`` to ``~\AppData\Roaming\Sublime Text 2\Packages\User\Andro.tmTheme``.
+Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color Scheme ➜ User ➜ Andro``.
+
+### Mac
+
+Copy ``themes/+Sublime Text/Andro.tmTheme`` to ``~/Library/Application Support/Sublime Text 2/Packages/User/Andro.tmTheme``.
+Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color Scheme ➜ User ➜ Andro``.
+
+Komodo Edit • [Neil Hanlon](https://github.com/neilhanlon)
+---------------------------------------------------------
 
 ### Windows
 
 Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``%AppData%\Local\ActiveState\KomodoEdit\<Version>\schemes\Andro.ksf``.
-Then open Komodo Edit, and select Andro as your scheme under ``Edit ➜ Preferences ➜ Fonts & Colors``
+Then open Komodo Edit, and select Andro as your scheme under ``Edit ➜ Preferences ➜ Fonts & Colors``.
 
 ### Mac
 
 Copy the ``theme/+Komodo Edit/Andro.ksf`` file to ``~/Library/Application Support/Komodo Edit/<Version>/schemes/Andro.ksf``.
-Then open Komodo Edit, and select Andro as your scheme under ``Komodo Edit ➜ Preferences ➜ Fonts & Colors``
+Then open Komodo Edit, and select Andro as your scheme under ``Komodo Edit ➜ Preferences ➜ Fonts & Colors``.
 
 
