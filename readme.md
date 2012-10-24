@@ -35,7 +35,7 @@ Currently supported editors:
 
 If you're going to port Andro to another editor, please let me know, and I'll add it. 
 Note that getting the same effect is pretty hard, as not many editors enable you to have as much flexibility as Espresso.
-Here are the colors. Credit goes to [Neil](https://github.com/neilhanlon) for giving the RGB values.
+Here are the colors. Credit goes to Neil for giving the RGB values.
 
 	$background:          #292929    rgb(41,41,41)
 	$highlight:           #3C3C3C;   rgb(60,60,60)
@@ -81,7 +81,7 @@ Sublime Text 2
 
 ### Windows
 
-Copy ``themes/+Sublime Text/Andro.tmTheme`` to ``~\AppData\Roaming\Sublime Text 2\Packages\User\Andro.tmTheme``.
+Copy ``themes/+Sublime Text/Andro.tmTheme`` to ``%AppData%\Roaming\Sublime Text 2\Packages\User\Andro.tmTheme``.
 Then open Sublime Text, and select ``Sublime Texte 2 ➜ Preferences ➜ Color Scheme ➜ User ➜ Andro``.
 
 ### Mac
