@@ -4,7 +4,7 @@ Andro is a originally theme for MacRabbit's Espresso, that I made and am using. 
 It is also being ported to several other editors, and while they're not perfect copies of it, it's close enough. 
 Currently supported editors:
 
-+ **Textmate**
++ **TextMate**
 + **Espresso**
 + **Komodo Edit**
 + **Sublime Text**
